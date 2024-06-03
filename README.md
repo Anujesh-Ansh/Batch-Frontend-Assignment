@@ -17,6 +17,9 @@ To add a dynamic touch, the photos of iPhones have been enhanced with a tilt eff
 ### 3. Heartbeat Footer ❤️
 At the bottom of the page, you'll find a heartfelt footer that says, **"Made with ❤️ By Anujesh"**. The heart emoji is not just static—it keeps on beating, bringing the footer to life! And guess what? Clicking on this footer will take you straight to my [GitHub profile](https://github.com/Anujesh-Ansh). Let's connect! 🤝
 
+### 4. Project Walkthrough on YouTube 🎥
+For a detailed walkthrough of this project, check out the video I made on YouTube! Click [here](https://youtu.be/IxfqZAcGydo) to watch the video. Don't forget to like, comment, and subscribe! 📺👍
+
 ## 🛠️ Technologies Used
 
 - **HTML5** 🌐
