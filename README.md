@@ -1,6 +1,6 @@
 # 🌟 Batch Frontend Assignment 🌟
 
-Welcome to the **Batch Frontend Assignment** project! 🚀 This project is a stunning transformation of a Figma design into a lively, animated HTML and CSS page. Check out the live version [here](https://batch-frontend-assignment.vercel.app)! 🌐
+Welcome to the **Batch Frontend Assignment** project! 🚀 This project is a stunning transformation of a Figma design into a lively, animated HTML and CSS page. Check out the live version [here](https://anujesh-ansh.github.io/Batch-Frontend-Assignment/)! 🌐
 
 ## 🎨 Design Inspiration
 
@@ -26,7 +26,7 @@ At the bottom of the page, you'll find a heartfelt footer that says, **"Made wit
 
 ## 🚀 Getting Started
 
-Want to see the project in action? Just head over to the deployed link: [Live Demo](https://batch-frontend-assignment.vercel.app) 🌟
+Want to see the project in action? Just head over to the deployed link: [Live Demo](https://anujesh-ansh.github.io/Batch-Frontend-Assignment/) 🌟
 
 ## 🙏 Acknowledgments
 
